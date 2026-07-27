@@ -1,4 +1,6 @@
-👋 Hi, I’m @psing7
+👋 Hi, I’m @psing7. My name is Prisha Singh and I am studying CS + Math @ University of Illinois Urbana-Champaign. 
+
+🌐 Explore my personal website and portfolio: [psing7.github.io](https://psing7.github.io/)
 
 💻 I’m interested in building intelligent, scalable software systems at the intersection of machine learning, AI, and full-stack development.
 
