@@ -1,13 +1,15 @@
-👋 Hi, I’m @psing7. My name is Prisha Singh and I am studying CS + Math @ University of Illinois Urbana-Champaign. 
+👋 Hi, I'm **Prisha Singh** (@psing7), a Computer Science + Mathematics student at the University of Illinois Urbana-Champaign.
 
-🌐 Explore my personal website and portfolio: [psing7.github.io](https://psing7.github.io/)
+🌐 **Portfolio:** https://psing7.github.io/
+🔗 LinkedIn: https://www.linkedin.com/in/prishassingh
 
-💻 I’m interested in building intelligent, scalable software systems at the intersection of machine learning, AI, and full-stack development.
+💻 I'm interested in building intelligent, scalable software systems, with a focus on backend engineering, AI infrastructure, and machine learning.
 
-🤖 I’ve worked on AI-powered applications including RAG systems, computer vision pipelines, and LLM-based tools, with experience taking ML features from prototype to production.
+🚀 My experience spans RAG systems, computer vision, edge AI, and full-stack development, with a focus on taking ideas from prototype to production.
 
-🌱 I’m currently exploring applied machine learning, AI infrastructure, and building projects that combine data, software engineering, and emerging technologies.
+🌱 I'm currently exploring distributed systems, applied machine learning, and emerging AI technologies.
 
-💞️ I’m interested in collaborating on projects that use AI to solve meaningful problems, especially in areas like healthcare, education, and developer productivity.
+💞️ I'm always excited to collaborate on projects that use technology to solve meaningful problems, especially in healthcare, education, and developer productivity.
 
-📫 How to reach me: [psing7@illinois.edu](mailto:psing7@illinois.edu)
+📫 **Reach me:** [psing7@illinois.edu](mailto:psing7@illinois.edu)
+
